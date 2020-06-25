@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Info Planet</string>
+    <string name="planets_name">Nama Planet</string>
+    <string name="detail">Detail</string>
+    <string name="card">Card View</string>
+    <string name="grid">Grid</string>
+    <string name="about">About Me</string>
+    <string name="list">List</string>
+    <string name="nickname">Nickname</string>
+    <string name="naufal_fadhil">Naufal/Fadhil</string>
+    <string name="pob_dob">POB/DOB</string>
+    <string name="jakarta_07_april_2001">Jakarta, 07 April 2001</string>
+    <string name="email">EMAIL</string>
+    <string name="naufalfadhilathallah_gmail_com">naufalfadhilathallah@gmail.com</string>
+    <string name="phonenumber">Phonenumber</string>
+    <string name="_081316403612">081316403612</string>
+    <string name="adress">Adress</string>
+    <string name="cibinong_bogor_jawa_barat">Cibinong, bogor, Jawa Barat</string>
+    <string name="title_activity_about">About</string>
+    <string name="share" />
+    <string name="favorite" />
+    <string name="heroes_name" />
+</resources>
